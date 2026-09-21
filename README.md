@@ -69,3 +69,5 @@ Dashboard: https://vulnscan.vokrix.co
 Vercel: vulnscan
 Railway: vulnscan
 Cloudflare: vulnscan.vokrix.co
+
+Billing: price_1UHv022c9uGCcgMS4SryIvna
