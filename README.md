@@ -67,3 +67,4 @@ The first non-empty row is the header row. Invalid or empty byte streams return 
 - Dashboard: Vercel, built from dashboard/.
 Dashboard: https://vulnscan.vokrix.co
 Vercel: vulnscan
+Railway: vulnscan
